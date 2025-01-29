@@ -18,7 +18,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/ai-assistant-frontend.git
+   git clone https://github.com/Jatayeti/test-ai-assistant-front.git
    cd ai-assistant-frontend
    ```
 
