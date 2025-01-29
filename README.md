@@ -19,7 +19,7 @@ Ensure you have the following installed:
 
    ```sh
    git clone https://github.com/Jatayeti/test-ai-assistant-front.git
-   cd ai-assistant-frontend
+   cd test-ai-assistant-front
    ```
 
 2. Install dependencies:
